@@ -6,3 +6,4 @@ Some technologies I enjoied working with includes PHP, NodeJS, and ReactJS.
 - 🔭 I’m currently working on Javascript technologies (NodeJS APIs & ReactJS)
 - 🌱 I’m currently learning (SCSS, Website Security basics)
 - 📫 How to reach me: [aniruddhpurohit@hotmail.com]
+- LinkedIn: [https://www.linkedin.com/in/aniruddhpurohit/]
