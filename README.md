@@ -1,9 +1,15 @@
 # Hey, I'm Aniruddh
 
-I'm a software developer who is passionate about coading and learning new technologies.
-Some technologies I enjoied working with includes PHP, NodeJS, and ReactJS.
+Senior JavaScript Developer & Tech Lead | NodeJS • ReactJS • REST APIs • AWS | Leading Teams & Building Scalable Products
 
-I’m currently working on Javascript technologies (ReactJS & NodeJS APIs with Express, sequelize)
+Senior JavaScript Developer and Tech Lead with decent experience in designing and delivering scalable NodeJS and ReactJS applications for global clients, including US-based SaaS and automotive platforms. I currently lead a team of developers, owning technical architecture, sprint planning, code reviews, and delivery execution. I enjoy working at the intersection of hands-on engineering and leadership, ensuring clean code, reliable systems, and predictable delivery.
+
+💡 What I do best:
+• Build high-performance REST APIs using NodeJS & Express • Develop modern ReactJS frontends with reusable components and optimised UX • Design systems integrated with AWS (S3) and third-party services • Lead teams using Agile/Scrum, mentoring developers and reviewing code • Improve system performance, stability, and maintainability
+
+🛠️ Tech Stack:
+JavaScript (ES6+), NodeJS, ExpressJS, ReactJS, REST APIs, MySQL, MongoDB, AWS S3, Docker (Basics), Kubernetes (Basics), CI/CD, JWT Authentication
+I’m passionate about building scalable products, mentoring engineers, and taking ownership from idea to production. Open to opportunities as Tech Lead / Senior JavaScript Developer in product-driven teams.
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddhpurohit/)
 
