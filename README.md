@@ -11,6 +11,5 @@ Senior JavaScript Developer and Tech Lead with decent experience in designing an
 JavaScript (ES6+), NodeJS, ExpressJS, ReactJS, REST APIs, MySQL, MongoDB, AWS S3, Docker (Basics), Kubernetes (Basics), CI/CD, JWT Authentication
 I’m passionate about building scalable products, mentoring engineers, and taking ownership from idea to production. Open to opportunities as Tech Lead / Senior JavaScript Developer in product-driven teams.
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddhpurohit/)
-
-<a href="https://meta.stackoverflow.com/users/7760037/ani"><img src="https://meta.stackoverflow.com/users/flair/7760037.png?theme=clean" width="208" height="58" alt="profile for Ani at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers" title="profile for Ani at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers"></a>
+[<img width="36" height="36" alt="linkedin100" src="https://github.com/user-attachments/assets/1a1427ae-b125-46d2-b0ac-dbffbe8a8788" />](https://www.linkedin.com/in/aniruddhpurohit/)
+[<img width="36" height="36" alt="stake100" src="https://github.com/user-attachments/assets/114ea3a2-d681-40dd-ba01-b91d919d1316" />](https://stackoverflow.com/users/7760037/ani)
